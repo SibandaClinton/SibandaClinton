@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clinton Sibanda
+- 👋 Hi, I’m Tlangelani Sibanda
 - 👀 I’m interested in Software Development and Networking
 - 🌱 I’m currently learning HTML, CSS, Javascript & Cisco Networking
 - 💞️ I’m looking to collaborate on Web Development
